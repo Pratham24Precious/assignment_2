@@ -1,3 +1,4 @@
+# Create a mixin module that provides a count_vowels method. Include the module in a class called StringAnalyzer. The count_vowels method should count and return the number of vowels in the string
 module Mixin
     def self.count_vowels(str)
         vowel = "aeiouAEIOU"
