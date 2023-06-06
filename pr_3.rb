@@ -1,3 +1,6 @@
+# Create a module mixin called MathOperationsMixin that provides methods 
+# for addition, subtraction, and multiplication. Include the mixin in a 
+# class called Calculator and use it to perform mathematical operations.
 module MathOperationsMixin
     def addition(num1,num2)
         sum = num1+num2
